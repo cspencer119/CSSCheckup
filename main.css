@@ -1,0 +1,29 @@
+.first-class{
+    background-color: red;
+    border: 5px dashed black;
+    height: 245px;
+    width: 250px;
+}
+.second-class{
+    background-color: aqua;
+    border: 5px solid greenyellow;
+    height: 200px;
+    width: 250px;
+}
+#number-1{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#number-2{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+css.classes h1{
+    background-color: yellow;
+    border:15px checked pink;
+    margin-top: 15px;
+    margin-right: 250px;
+    margin-left: 25px;
+    margin-bottom: 125px;
+padding: 20px 20px 20px 20px;
+}
